@@ -6,4 +6,4 @@ I dream of creating software that not only makes people's lives easier but also 
 
 <h2>MY SKILLS</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,java,react,vue,flutter&perline=3)](https://skillicons.dev)
