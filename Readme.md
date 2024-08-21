@@ -4,5 +4,5 @@ I’m a passionate full-stack software developer with a strong drive to learn an
 
 I dream of creating software that not only makes people's lives easier but also brings joy and fun to their everyday experiences. 🚀 I thrive on tackling complex challenges and collaborating on projects that are both scalable and user-friendly. 🎯 Let's code something amazing together!
 
-<h2>MY SKILLS</h2>
+MY SKILLS
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
